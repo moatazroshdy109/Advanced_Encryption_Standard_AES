@@ -1,1 +1,1 @@
-I wrote this code during the study of communications engineering(2017).
+I wrote this code during the study of communications engineering (graduation date is 2017).
